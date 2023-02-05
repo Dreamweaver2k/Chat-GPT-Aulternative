@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "bcedcb28eb50419983ac",
+    "revision": "bd714bcd336a7e486c13",
     "url": "/Chat-GPT-Aulternative/static/css/main.189f00de.chunk.css"
   },
   {
-    "revision": "bcedcb28eb50419983ac",
-    "url": "/Chat-GPT-Aulternative/static/js/main.50b7bbe9.chunk.js"
+    "revision": "bd714bcd336a7e486c13",
+    "url": "/Chat-GPT-Aulternative/static/js/main.764f7a42.chunk.js"
   },
   {
     "revision": "6533bbd04c1275912876",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/Chat-GPT-Aulternative/static/media/GreyBox.4d3d89fb.svg"
   },
   {
-    "revision": "d0cf9130e691d9a52b010de6d4d9030d",
+    "revision": "6051fc11614822ad6518b7a73bf66cfa",
     "url": "/Chat-GPT-Aulternative/index.html"
   }
 ];
