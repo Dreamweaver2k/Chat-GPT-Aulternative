@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "fd70a223f5b9868f48bb",
+    "revision": "a35b8f728bfb6fb2e97b",
     "url": "/Chat-GPT-Aulternative/static/css/main.189f00de.chunk.css"
   },
   {
-    "revision": "fd70a223f5b9868f48bb",
-    "url": "/Chat-GPT-Aulternative/static/js/main.2e6cfe90.chunk.js"
+    "revision": "a35b8f728bfb6fb2e97b",
+    "url": "/Chat-GPT-Aulternative/static/js/main.00c34ea4.chunk.js"
   },
   {
     "revision": "6533bbd04c1275912876",
     "url": "/Chat-GPT-Aulternative/static/js/runtime~main.1bfd44fa.js"
   },
   {
-    "revision": "8b4938cc7381db5be28f",
+    "revision": "61a19b7243d7e4c501de",
     "url": "/Chat-GPT-Aulternative/static/css/2.b2b43d99.chunk.css"
   },
   {
-    "revision": "8b4938cc7381db5be28f",
-    "url": "/Chat-GPT-Aulternative/static/js/2.5ed171a6.chunk.js"
+    "revision": "61a19b7243d7e4c501de",
+    "url": "/Chat-GPT-Aulternative/static/js/2.cbb4903e.chunk.js"
   },
   {
     "revision": "43cd0406631cf17174cd",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/Chat-GPT-Aulternative/static/media/GreyBox.4d3d89fb.svg"
   },
   {
-    "revision": "203b5673a821f3bd8ba223cb3b4c6001",
+    "revision": "13137ce60464186d4a9a1cc44a584df3",
     "url": "/Chat-GPT-Aulternative/index.html"
   }
 ];
